@@ -1,0 +1,23 @@
+{
+  "name": "learningBlockchain",
+  "version": "1.0.0",
+  "description": "My test functions for learning purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkollman/learningBlockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkollman/learningBlockchain/issues"
+  },
+  "homepage": "https://github.com/kkollman/learningBlockchain#readme",
+  "dependencies": {
+    "jest": "23.6.0"
+  }
+}
